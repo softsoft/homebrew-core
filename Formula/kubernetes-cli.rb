@@ -3,7 +3,7 @@ class KubernetesCli < Formula
   homepage "https://kubernetes.io/"
   url "https://github.com/kubernetes/kubernetes.git",
       :tag => "v1.8.11",
-      :revision => "fc32d2f3698e36b93322a3465f63a14e9f0eaead"
+      :revision => "1df6a8381669a6c753f79cb31ca2e3d57ee7c8a3"
   head "https://github.com/kubernetes/kubernetes.git"
 
   bottle do
